@@ -1,6 +1,6 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to DevOpsCleverIT Profile" />
+  <img src="images/profile.png?raw=true" style="max-width: 100%;" alt="Welcome to DevOpsCleverIT Profile" />
   <br />
   <br />
   <img height="50" alt="My Name is Diego and I like Node.js" src="images/personal_note.svg" />
