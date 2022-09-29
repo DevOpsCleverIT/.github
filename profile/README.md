@@ -60,7 +60,7 @@
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="images/marquee.svg" />
 <br />
-
+[https://profile-counter.glitch.me/vikingops/count.svg](https://profile-counter.glitch.me/vikingops/count.svg)
  
 
 
