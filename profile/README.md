@@ -1,9 +1,9 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to DevOpsCleverIT Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
+  <img height="50" alt="My Name is Diego and I like Node.js" src="images/personal_note.svg" />
   <br />
   <br />
 
@@ -13,7 +13,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
+<a href="https://www.diego.io">
 <strong>Visit my personal website </strong>
 <br />
 <br />
@@ -29,7 +29,7 @@
 
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<a href="https://www.youtube.com/c/mychemicalromance">
 <strong>Listen to cool music</strong>
 <br />
 <br />
