@@ -7,7 +7,6 @@
           color: limegreen;
           font-size: 1.5em;
         }
-
         .blink {
           animation: blink-animation 1s steps(5, start) infinite;
         }
@@ -17,7 +16,7 @@
           }
         }
       </style>
-      <strong>My Name is Diego and I like <span class="blink">DevOps</span></strong>
+      <strong>My Name is Livio and I like <span class="blink">Node.js</span></strong>
 		</div>
 	</foreignObject>
 </svg>
